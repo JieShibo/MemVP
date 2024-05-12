@@ -52,7 +52,7 @@ pip install -e .
                   |-- consolidated.01.pth
 ```
 
-##Fine-Tuning & Inference
+## Fine-Tuning & Inference
 ```shell script
 # LLaMA-7B
 bash scripts/finetuning_sqa_7b.sh
