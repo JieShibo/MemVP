@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python eval.py --model 13B --adapter_path MemVP-SQA-13B

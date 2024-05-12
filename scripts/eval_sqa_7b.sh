@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python eval.py --model 7B --adapter_path MemVP-SQA-7B
