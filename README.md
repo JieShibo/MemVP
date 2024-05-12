@@ -62,7 +62,7 @@ bash scripts/eval_sqa_7b.sh
 bash scripts/finetuning_sqa_13b.sh
 bash scripts/eval_sqa_13b.sh
 ```
-Fine-tuning takes around 40 minutes for LLaVA-7B and 1 hour for LLaVA-13B on 8x A800 (80G).
+Fine-tuning takes around 40 minutes for LLaMA-7B and 1 hour for LLaMA-13B on 8x A800 (80G).
 
 [Checkpoints](https://huggingface.co/JieShibo/MemVP-LLaMA-scienceqa/tree/main)
 
